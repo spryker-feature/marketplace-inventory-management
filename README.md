@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Inventory Management
 
-
+The Marketplace Inventory Management implies Stock & Availability Management as well as Multiple Warehouse Stock Management for product offers and merchant products.
 
 ## Installation
 
