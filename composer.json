@@ -22,6 +22,7 @@
         }
     },
     "suggest": {
+        "spryker-feature/inventory-management": "Recommended feature dependency.",
         "spryker-feature/marketplace-product-offer": "Recommended feature dependency."
     }
 }
