@@ -10,7 +10,7 @@
         "spryker-shop/availability-widget": "^1.1.0",
         "spryker/availability": "^9.14.0",
         "spryker/availability-gui": "^6.6.0",
-        "spryker/availability-storage": "^2.5.0",
+        "spryker/availability-storage": "^2.6.0",
         "spryker/merchant-stock": "^1.0.0",
         "spryker/merchant-stock-data-import": "^0.3.0",
         "spryker/merchant-stock-gui": "^1.0.0",
