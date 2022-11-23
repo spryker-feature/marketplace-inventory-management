@@ -16,5 +16,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [AvailabilityMerchantPortalGui ^1.0.0](https://github.com/spryker/availability-merchant-portal-gui) (MP GUI)
-- [ProductOfferAvailabilitiesRestApi ^1.0.0](https://github.com/spryker/product-offer-availabilities-rest-api) (Glue)
+- [ProductOfferAvailabilitiesRestApi ^1.1.0](https://github.com/spryker/product-offer-availabilities-rest-api) (Glue)
 - [ProductOfferStockGuiExtension ^1.0.0](https://github.com/spryker/product-offer-stock-gui-extension) (Extension)
