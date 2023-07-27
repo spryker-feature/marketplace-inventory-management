@@ -2,6 +2,8 @@
 
 The Marketplace Inventory Management implies Stock & Availability Management as well as Multiple Warehouse Stock Management for product offers and merchant products.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/warehouse-management-system/202307.0/marketplace/marketplace-inventory-management-feature-overview.html)
+
 ## Installation
 
 ```
