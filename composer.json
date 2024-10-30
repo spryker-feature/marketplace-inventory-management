@@ -11,7 +11,7 @@
         "spryker/availability": "^9.23.0",
         "spryker/availability-gui": "^6.10.0",
         "spryker/availability-storage": "^2.8.0",
-        "spryker/merchant-stock": "^1.2.0",
+        "spryker/merchant-stock": "^1.3.0",
         "spryker/merchant-stock-data-import": "^0.3.0",
         "spryker/merchant-stock-gui": "^1.0.0",
         "spryker/product-offer-availability": "^1.4.0",
